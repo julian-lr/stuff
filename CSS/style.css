@@ -17,7 +17,7 @@
 
     /* PARALLAX */
     .parallax {
-        background-image: url("../ASSETS/back_2.JPG");
+        background-image: url("/assets/img/back_2.JPG");
         height: 102%;
         background-attachment: fixed;
         background-position: center;
@@ -27,7 +27,7 @@
     }
 
     .parallax2 {
-        background-image: url("../ASSETS/back.jpg");
+        background-image: url("/assets/img/back.jpg");
         height: 100%;
         background-attachment: fixed;
         background-position: center;
